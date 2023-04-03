@@ -34,7 +34,7 @@
 - :computer: I'm currently working in Web Development
 - :hourglass_flowing_sand:  Exploring Latest Tools and Technologies
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: More Than a 2 years of work experience in web development
+- :man_technologist: More Than 2+ years of work experience in web development
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
 - :trophy: Diploma Graduate from GNDIT in Computer Engineering
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>

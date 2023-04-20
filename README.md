@@ -44,7 +44,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-aftan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aftan-ahmad-b13832211/)](https://www.linkedin.com/in/aftan-ahmad-b13832211/) [![Instagram Badge](https://img.shields.io/badge/-@aft.an-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aft.an/)](https://www.instagram.com/aft.an/)
+[![Linkedin Badge](https://img.shields.io/badge/-aftan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aftan-ahmad-b13832211/)](https://www.linkedin.com/in/aftan-ahmad-b13832211/) [![Instagram Badge](https://img.shields.io/badge/-@aftancodes-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aftancodes/)](https://www.instagram.com/aftancodes/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AftanGithub&count_private=true&show_icons=true&include_all_commits=true)
 <br>

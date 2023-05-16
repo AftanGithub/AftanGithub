@@ -47,7 +47,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-aftan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aftan-ahmad-b13832211/)](https://www.linkedin.com/in/aftan-ahmad-b13832211/) [![Instagram Badge](https://img.shields.io/badge/-@aftancodes-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aftancodes/)](https://www.instagram.com/aftancodes/)
 
-![Github Stats](https://acedev003-readme-stats.vercel.app/api?username=AftanGithub&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://acedev003-readme-stats.vercel.app)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AftanGithub&hide=TeX&layout=compact)
 
